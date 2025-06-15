@@ -29,4 +29,4 @@ unsafe_io = ["monoio-io-wrapper/unsafe_io"]
 
 [dev-dependencies]
 monoio = { workspace = true }
-webpki-roots = "~0.26.1"
+webpki-roots = "1"

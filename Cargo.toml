@@ -3,6 +3,6 @@ members = ["monoio-rustls", "monoio-native-tls", "monoio-io-wrapper", "example"]
 resolver = "2"
 
 [workspace.dependencies]
-monoio = { version = "0.2.4", git = "https://github.com/MokerWill/monoio", branch = "dev" }
+monoio = { version = "0.2.4", git = "https://github.com/MokerWill/monoio", branch = "dev-20252615" }
 bytes = { version = "1" }
 thiserror = { version = "2" }
